@@ -12,8 +12,10 @@ For additional questions and help, please [join us on Discord](https://discord.g
 
 ## Contributions
 The calculator itself was originally designed by [Curt Herzstark](https://en.wikipedia.org/wiki/Curt_Herzstark) and produced by Contina AG Mauren.
+
 [mcmaven](https://www.thingiverse.com/mcmaven)'s [Curta Calculator Mods](https://www.thingiverse.com/thing:3126676) heavily inspired my changes to the carry levers. I highly recommend checking out his other changes too.
 
+## License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
