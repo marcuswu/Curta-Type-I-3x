@@ -15,6 +15,13 @@ The calculator itself was originally designed by [Curt Herzstark](https://en.wik
 
 [mcmaven](https://www.thingiverse.com/mcmaven)'s [Curta Calculator Mods](https://www.thingiverse.com/thing:3126676) heavily inspired my changes to the carry levers. I highly recommend checking out his other changes too.
 
+Anything under the Mods folder will have its own acknowledgements if not made by me.
+
+## Supporting this work
+This is a passion project and does not directly make me any money. Previously, I used Amazon Associates links in the Bill of Materials, but I have since removed those.
+
+If you would like to show your support in a monetary way, you can [Buy Me a Coffee](https://www.buymeacoffee.com/MarcusWu)
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
