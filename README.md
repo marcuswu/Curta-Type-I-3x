@@ -8,7 +8,7 @@ Please see the [BOM](https://docs.google.com/spreadsheets/d/16EJePozXW-uC6UFISzy
 The manual should provide a rough idea how to assemble the calculator.
 The [assembly video](https://youtu.be/zh2Z11miQ0w) should also help.
 
-For additional questions and help, please [join us on Discord](https://discord.gg/TjvdKUyb)
+For additional questions and help, please [join us on Discord](https://discord.gg/k7JcmqUPjh)
 
 ## Contributions
 The calculator itself was originally designed by [Curt Herzstark](https://en.wikipedia.org/wiki/Curt_Herzstark) and produced by Contina AG Mauren.
