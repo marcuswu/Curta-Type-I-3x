@@ -3,6 +3,8 @@
 
 3x scale Curta Type I for FDM 3D printing
 
+For a list of printable parts in BOM order, see the [BOM-to-STL index](BOM-STL-INDEX.md).
+
 Please see the [BOM](https://docs.google.com/spreadsheets/d/16EJePozXW-uC6UFISzyT2eMk7c8wh6v-EP5L1U8fzfM/edit?usp=sharing) for information about how to print the parts, what non-printed parts to gather, and suggestions on how to source them.
 
 The manual should provide a rough idea how to assemble the calculator.
